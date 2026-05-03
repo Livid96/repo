@@ -16,11 +16,11 @@
               "topics": [
                 {
                   "title": "Variables & Expressions",
-                  "url": "https://www.youtube.com/watch?v=zpzdgmqIHOQ"
+                  "url": "zpzdgmqIHOQ"
                 },
                 {
                   "title": "Linear Equations",
-                  "url": "https://www.youtube.com/watch?v=example2"
+                  "url": "example2"
                 }
               ]
             },
@@ -206,10 +206,6 @@
     },
     {
       "year_title": "Year 4",
-      "subjects": []
-    },
-    {
-      "year_title": "New Year",
       "subjects": []
     }
   ]
