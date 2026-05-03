@@ -2,7 +2,7 @@
   "browse_label": "Browse by Year",
   "years": [
     {
-      "year_title": "Year 01",
+      "year_title": "1st Year",
       "subjects": [
         {
           "subject_name": {
@@ -23,6 +23,10 @@
           ]
         }
       ]
+    },
+    {
+      "year_title": "2nd Year",
+      "subjects": []
     }
   ]
 }
