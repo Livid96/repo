@@ -23,32 +23,6 @@
           ]
         }
       ]
-    },
-    {
-      "year_title": "Rd",
-      "subjects": [
-        {
-          "subject_name": {
-            "en": "New Subject",
-            "bn": ""
-          },
-          "img": "",
-          "chapters": []
-        }
-      ]
-    },
-    {
-      "year_title": "Emon",
-      "subjects": [
-        {
-          "subject_name": {
-            "en": "New Subject",
-            "bn": ""
-          },
-          "img": "",
-          "chapters": []
-        }
-      ]
     }
   ]
 }
