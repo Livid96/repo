@@ -23,19 +23,6 @@
           ]
         }
       ]
-    },
-    {
-      "year_title": "New Year",
-      "subjects": [
-        {
-          "subject_name": {
-            "en": "New Subject",
-            "bn": ""
-          },
-          "img": "",
-          "chapters": []
-        }
-      ]
     }
   ]
 }
