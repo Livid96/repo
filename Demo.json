@@ -76,7 +76,26 @@
     },
     {
       "year_title": "4th Year",
-      "subjects": []
+      "subjects": [
+        {
+          "subject_name": {
+            "en": "English",
+            "bn": ""
+          },
+          "img": "",
+          "chapters": [
+            {
+              "chapter_title": "Chapter 1",
+              "topics": [
+                {
+                  "title": "Article",
+                  "url": "izGwDsrQ1eQ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
