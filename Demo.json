@@ -27,6 +27,29 @@
     {
       "year_title": "2nd Year",
       "subjects": []
+    },
+    {
+      "year_title": "3rd Year",
+      "subjects": [
+        {
+          "subject_name": {
+            "en": "History",
+            "bn": "ইতিহাস "
+          },
+          "img": "",
+          "chapters": [
+            {
+              "chapter_title": "বাংলার ইতিহাস",
+              "topics": [
+                {
+                  "title": "পাঠ ০১",
+                  "url": "o3hynldARRE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
