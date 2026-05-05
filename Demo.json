@@ -23,6 +23,19 @@
           ]
         }
       ]
+    },
+    {
+      "year_title": "2nd Year",
+      "subjects": [
+        {
+          "subject_name": {
+            "en": "Micro",
+            "bn": ""
+          },
+          "img": "",
+          "chapters": []
+        }
+      ]
     }
   ]
 }
